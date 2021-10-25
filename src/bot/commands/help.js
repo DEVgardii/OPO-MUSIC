@@ -17,7 +17,7 @@ module.exports = {
 > \` lyrics . join . pause . resume . radio \`
 > \` stop . filter . prefix  . leave . volume \`
 > \`ping . invite . support . vote . info\`
-  **[ \`invite\` ](https://discord.com/api/oauth2/authorize?client_id=791856757844475914&permissions=0&scope=bot)** , **[ \`support\` ](https://discord.gg/7sEtecbAM6)**   
+  **[ \`invite\` ](https://discord.com/api/oauth2/authorize?client_id=897865860037890088&permissions=8&scope=bot)** , **[ \`support\` ](https://discord.gg/a9zgcYJdCY)**   
    `);
 
 
